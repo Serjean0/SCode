@@ -1,2 +1,0 @@
-# SCode
-All about SCode
